@@ -1,6 +1,3 @@
----
-
-<img width="1548" height="597" alt="priliminary " src="https://github.com/user-attachments/assets/1b0e4142-f1be-4fdc-a962-6da4de7b931f" />
 
 ---
 ## Preliminary Insights & Early Findings
