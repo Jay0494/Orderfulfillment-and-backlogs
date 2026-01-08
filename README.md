@@ -45,6 +45,9 @@ The next phase of analysis will focus on isolating specific bottlenecks, quantif
 
 ---
 
+<img width="1196" height="607" alt="backlog insights " src="https://github.com/user-attachments/assets/e978b75f-2761-44ea-b31b-7305bdf54052" />
+
+---
 ## Deeper Analysis & Recommendations (One-Slide Summary)
 
 **Key Insights**
